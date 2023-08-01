@@ -1,4 +1,4 @@
-// Actual Solution
+// Solution V1
 function generation(x, y) {
   const legacy = {
     "-3": {
