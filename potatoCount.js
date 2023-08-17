@@ -1,7 +1,7 @@
-const potatoCount = (str) => {
-  var arr = str.split("potato");
+// const potatoCount = (str) => {
+//   var arr = str.split("potato");
 
-  return arr.length - 1;
-};
+//   return arr.length - 1;
+// };
 
-console.log(potatoCount("potatosspotatocherrypotato"));
+// console.log(potatoCount("potatosspotatocherrypotato"));
